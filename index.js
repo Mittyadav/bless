@@ -818,7 +818,7 @@ async function displayHeader() {
     console.log("");
     console.log(chalk.default.yellow(" ============================================"));
     console.log(chalk.default.yellow("|        Blockless Bless Network Bot         |"));
-    console.log(chalk.default.yellow("|         github.com/recitativonika          |"));
+    console.log(chalk.default.yellow("|         github.com/Mittyadav               |"));
     console.log(chalk.default.yellow(" ============================================"));
     console.log("");
 }
